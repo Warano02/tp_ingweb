@@ -33,7 +33,7 @@
 | 31 | [APISSIDI ABAKALAOU JOSUÉ](https://github.com/apissididev-coder/apissidiTpe1Web.git) | 23A654FS |
 | 32 | [NOUBA ADOUM GUSTAVE TAMDIRA](https://github.com/chakal7-cyber/automarket.git) | 23A729FS |
 | 33 | [HISSEIN OUSMAN MAHAMAT](https://hissein-tech.github.io/hissein/) | 23A099FS |
-| 34 | [KAPTCHOUANG MABOU AZAREEL](https://github.com/azastar-tech/montre-de-luxe-by-sky) | — |
+| 34 | [KAPTCHOUANG MABOU AZAREEL](https://github.com/azastar-tech/montre-de-luxe-by-sky) | 23A046FS |
 | 35 | [ALLAISSEM INNOCENT NAKONDENGAR](https://github.com/jeromeyayibe-debug/jerome.git) | 22B237FS |
 | 36 | [ALLAISSEM INNOCENT NAKONDENGAR](https://allaissem.github.io/Site-web-personnel/) | 22B237FS |
 | 37 | [KOKANOUN MARCEL](https://github.com/Warano02/quiz-master/tree/main) | 22A255FS |
@@ -55,8 +55,8 @@
 | 53 | [ISSA MAHAMAT ADAM](https://issa-235.github.io/issakaka/) | 23A158FS |
 | 54 | [KAMWA DANIEL](https://github.com/DanielKamwa0/TPE_Site_Personnel__-__KAMWA-DANIEL-20A171FS) | 20A171FS |
 | 55 | [TCHIDEME GABRIEL](https://github.com/14-1Gabriel/emploi_temps.git) | 23B036FS |
-| 56 | [AYI KANE MVOGO](https://github.com/ayimvogo-del/LUxIA.git) | — |
-| 57 | [ADAMOU YAYA](https://github.com/Ousmanou-Nana/TPE_ADAMOU_YAYA_INGWEB_L3_INF_2025-2026-) | — |
+| 56 | [AYI KANE MVOGO](https://github.com/ayimvogo-del/LUxIA.git) | 23A529FS |
+| 57 | [ADAMOU YAYA](https://github.com/Ousmanou-Nana/TPE_ADAMOU_YAYA_INGWEB_L3_INF_2025-2026-) | 23A008FS |
 | 58 | [WABECHEGUAL](https://github.com/Wabechegual/Gestion-personnelle-/pulls) | — |
 | 59 | [GUIDAIDI ALAHOKI](https://github.com/oudjairou/ecommerce) | 23B069FS |
 | 60 | [OUDJAIROU ISSIAKOU](https://github.com/oudjairou/ecommerce) | 23B295FS |
@@ -83,3 +83,9 @@
 | 81 | [MAHMOUDOU](https://github.com/Mamoud-code/mahmoudou) | — |
 | 82 | [FONGANG FOTSIN VAREL](https://github.com/varel0es/ampoule-factory) | 23A364FS |
 | 83 | [ABDOURAHAMAN ABBO](https://github.com/Soudays2/soudaysairport) | 23B276FS |
+| 84 | [DJONFANBE VALENTIN](https://github.com/valentindpakeu-lang/valentin) | -- |
+| 85 | [MAIBOSSA'A DANE PARFAITE]( https://parfaite02.github.io/j-naturel-de-chez-maibossaa/) | -- |
+| 86 | [Gandi Hassan Alphonse]( https://github.com/kavaye/gestion_bibliotheque.git) | -- |
+| 87 | [Dimougna Clément]( https://github.com/dimougnaclement2-ship-it/SiteWeb) | -- |
+| 88 | [Kebzabo Bonheur]( https://github.com/kebzabonheur-design/restaurant-gestion) | -- |
+| 89 | [Dairou idrissa](  https://github.com/alioumboldt-del/Ecommerce/tree/main/E-commerce) | -- |
